@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ygopro2.Plugins", "UnityVS.ygopro2.Plugins.csproj", "{412D75F2-B531-7DCE-13CD-8BD5EE34A4EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ygopro2", "UnityVS.ygopro2.csproj", "{EBC8DE22-1AF4-9E39-7983-7C73D4EB22A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.ygopro2.Editor", "UnityVS.ygopro2.Editor.csproj", "{E594D958-8C03-A145-63D7-168947FBF9EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412D75F2-B531-7DCE-13CD-8BD5EE34A4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412D75F2-B531-7DCE-13CD-8BD5EE34A4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412D75F2-B531-7DCE-13CD-8BD5EE34A4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412D75F2-B531-7DCE-13CD-8BD5EE34A4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC8DE22-1AF4-9E39-7983-7C73D4EB22A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC8DE22-1AF4-9E39-7983-7C73D4EB22A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC8DE22-1AF4-9E39-7983-7C73D4EB22A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC8DE22-1AF4-9E39-7983-7C73D4EB22A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E594D958-8C03-A145-63D7-168947FBF9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E594D958-8C03-A145-63D7-168947FBF9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E594D958-8C03-A145-63D7-168947FBF9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E594D958-8C03-A145-63D7-168947FBF9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
